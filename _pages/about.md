@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student at University of Missouri-Kansas City, advised by <b><a href="[https://arxiv.org/abs/2312.03410](https://sites.google.com/view/rui-duan/home)">Dr. Rui Duan</a></b>
+I am a first year Ph.D. student at University of Missouri-Kansas City, advised by <b><a href="https://sites.google.com/view/rui-duan/home">Dr. Rui Duan</a></b>
 
 Recent News
 ======
