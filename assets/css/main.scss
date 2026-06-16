@@ -42,18 +42,24 @@
     "vendor/font-awesome/brands"
 ;
 
-   /* ===== Custom: make page wider ===== */
+/* ===== Custom: make page slightly wider ===== */
 
-   #main {
-     max-width: 1500px !important;
-   }
-   
-   .archive {
-     width: 100% !important;
-     padding-right: 0 !important;
-   }
-   
-   .page {
-     width: 100% !important;
-     padding-right: 0 !important;
-   }
+#main {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.page {
+  width: calc(100% - 300px) !important;
+  padding-right: 0 !important;
+}
+
+.archive {
+  width: calc(100% - 300px) !important;
+  padding-right: 0 !important;
+}
+
+.markdown-body li {
+  line-height: 1.35;
+}
