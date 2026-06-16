@@ -11,27 +11,27 @@ I am a first year Ph.D. student at University of Missouri-Kansas City, advised b
 
 Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Coming soon
 
 Publications
 ======
-<h3 style="color: #000;">2026</h3>
+<h3 style="color: #3f444a;">2026</h3>
 - **[Interspeech'26 Long Paper]** Learning to Evade: Adaptive Attacks on Audio Watermarking<br>
   <u><strong>Weikang Ding</strong></u>, Hanqing Guo, Rui Duan, Guangjing Wang, Yuanda Wang, Mingzhe Chen, Qiben Yan
 - **[ACM Transactions on CPS]** Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving<br>
   Ce Zhou, Qiben Yan, Daniel Kent, Guangjing Wang, <u><strong>Weikang Ding</strong></u>, Ziqi Zhang, Hayder Radha
-<h3 style="color: #000;">2025</h3>
+<h3 style="color: #3f444a;">2025</h3>
 - **[AsiaCCS'25]** ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks<br>
   Yuanda Wang, Bocheng Chen, Hanqing Guo, Guangjing Wang, <u><strong>Weikang Ding</strong></u>, Qiben Yan
 
 Review Services
 ======
-<h3 style="color: #000;">Reviewer</h3>
+<h3 style="color: #3f444a;">Reviewer</h3>
 - **[T-IFS]** IEEE Transactions on Information Forensics & Security: 2026
 - **[TDSC]** IEEE Transactions on Dependable and Secure Computing: 2026<br>
 
-<h3 style="color: #000;">Artifacts Evaluation Committee Member</h3>
+<h3 style="color: #3f444a;">Artifacts Evaluation Committee Member</h3>
 - **[USENIX Security]** USENIX Security Symposium: 2026<br>
 
-<h3 style="color: #000;">External Reviewer</h3>
-- **[ESORIC]** European Symposium on Research in Computer Security, 2026
+<h3 style="color: #3f444a;">External Reviewer</h3>
+- **[ESORIC]** European Symposium on Research in Computer Security, 2025
