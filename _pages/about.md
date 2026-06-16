@@ -22,9 +22,8 @@ For those users that need more advanced functionality, the template also support
 
 Publications
 ======
-- Learning to Evade: Adaptive Attacks on Audio Watermarking
-  **Weikang Ding**, Hanqing Guo, Rui Duan, Guangjing Wang, Yuanda Wang, Mingzhe Chen, Qiben Yan
-  Interspeech, long paper track, 2026
+- **[Interspeech'26 Long Paper Track]**Learning to Evade: Adaptive Attacks on Audio Watermarking
+  <u>Weikang Ding</u>, Hanqing Guo, Rui Duan, Guangjing Wang, Yuanda Wang, Mingzhe Chen, Qiben Yan
 
 Services
 ======
