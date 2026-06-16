@@ -22,8 +22,14 @@ For those users that need more advanced functionality, the template also support
 
 Publications
 ======
-- **[Interspeech '26 Long Paper Track]** Learning to Evade: Adaptive Attacks on Audio Watermarking<br>
+<h2 style="color: #000;">2026</h2>
+- **[Interspeech'26 Long Paper]** Learning to Evade: Adaptive Attacks on Audio Watermarking<br>
   <u><strong>Weikang Ding</strong></u>, Hanqing Guo, Rui Duan, Guangjing Wang, Yuanda Wang, Mingzhe Chen, Qiben Yan
+- **[ACM Transactions on CPS]** Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving<br>
+  Ce Zhou, Qiben Yan, Daniel Kent, Guangjing Wang, <u><strong>Weikang Ding</strong></u>, Ziqi Zhang, Hayder Radha
+<h2 style="color: #000;">2025</h2>
+- **[AsiaCCS'25]**ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks<br>
+  Yuanda Wang, Bocheng Chen, Hanqing Guo, Guangjing Wang, <u><strong>Weikang Ding</strong></u>, Qiben Yan
 
 Services
 ======
