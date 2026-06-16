@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student at University of Missouri-Kansas City, advised by <b><a href="https://arxiv.org/abs/2312.03410](https://sites.google.com/view/rui-duan/home">Dr. Rui Duan</a></b>
+I am a first year Ph.D. student at University of Missouri-Kansas City, advised by <b><a href="[https://arxiv.org/abs/2312.03410](https://sites.google.com/view/rui-duan/home)">Dr. Rui Duan</a></b>
 
 Recent News
 ======
-Coming soon
+- **Jun 2026** One paper is accepted at Interspeech 2026 long paper track.
 
-Publications
+Selected Publications **<b><a href="https://realfatpanda.github.io/publications/">Full List</a></b>**
 ======
 <h3 style="color: #3f444a;">2026</h3>
 - **[Interspeech'26 Long Paper]** Learning to Evade: Adaptive Attacks on Audio Watermarking<br>
