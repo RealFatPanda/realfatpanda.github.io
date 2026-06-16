@@ -1,14 +1,8 @@
----
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<h3 style="color: #3f444a;">2026</h3>
+- **[Interspeech'26 Long Paper]** Learning to Evade: Adaptive Attacks on Audio Watermarking<br>
+  <u><strong>Weikang Ding</strong></u>, Hanqing Guo, Rui Duan, Guangjing Wang, Yuanda Wang, Mingzhe Chen, Qiben Yan
+- **[ACM Transactions on CPS]** Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving<br>
+  Ce Zhou, Qiben Yan, Daniel Kent, Guangjing Wang, <u><strong>Weikang Ding</strong></u>, Ziqi Zhang, Hayder Radha
+<h3 style="color: #3f444a;">2025</h3>
+- **[AsiaCCS'25]** ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks<br>
+  Yuanda Wang, Bocheng Chen, Hanqing Guo, Guangjing Wang, <u><strong>Weikang Ding</strong></u>, Qiben Yan
