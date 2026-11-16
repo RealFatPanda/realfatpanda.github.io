@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <h3 style="color: #3f444a;">2026</h3>
+- **[S&P'27 Long Paper]** [Learning to Evade: Adaptive Attacks on Audio Watermarking](https://arxiv.org/abs/2611.04122)<br>
+  Binhao Ma, <u><strong>Weikang Ding</strong></u>, Hanqing Guo, Wenwei Zhao, Xiaowen Li, Leah Ding, Zhuo Lu, Rui Duan
 - **[Interspeech'26 Long Paper]** Learning to Evade: Adaptive Attacks on Audio Watermarking<br>
   <u><strong>Weikang Ding</strong></u>, Hanqing Guo, Rui Duan, Guangjing Wang, Yuanda Wang, Mingzhe Chen, Qiben Yan
 - **[ACM Transactions on CPS]** Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving<br>
